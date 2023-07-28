@@ -1,6 +1,6 @@
 # Car Dealer Project
 
-This project is about managing all the Car Dealer. The users can write a review of a car dealer.
+This project is about managing all the Car Dealers.
 
 ## Project Breakdown
 
